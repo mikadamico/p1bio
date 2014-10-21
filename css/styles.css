@@ -17,20 +17,14 @@ p {
 	font-weight: 300;
 	font-size: 15px;
 	line-height: 21px;
-}
-
-li {
-	font-family: 'Roboto Slab', serif;
-	font-weight: 300;
-	font-size: 15px;
-	line-height: 21px
-
+	margin-top: -15px;
 }
 
 
 .profile-photo {
 	border-radius: 100%;
-	margin: 20px -20px 0;
+	width: 400px;
+	height: 400px;
 }
 
 .line-photo {
